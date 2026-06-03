@@ -27,9 +27,18 @@ L’invariant démocratique central est l’égalité politique :
 
 ## Dépôts principaux
 
-- [`acorsica/gouvernance`](https://github.com/acorsica/gouvernance) — gouvernance, traçabilité, intérêt général, séparation politique.
+- [`acorsica/gouvernance`](https://github.com/acorsica/gouvernance) — gouvernance, traçabilité, intérêt général, séparation politique, état du corpus.
 - [`acorsica/institut-mariani`](https://github.com/acorsica/institut-mariani) — émanation R&D de C.O.R.S.I.C.A.
-- [`acorsica/privai`](https://github.com/acorsica/privai) — initiative PrivAI, en développement au sein de l’Institut Mariani.
+- [`acorsica/privai`](https://github.com/acorsica/privai) — gouvernance fiduciaire des traces personnelles, jumeaux numériques, Cogentigrams et signatures structurelles.
+- [`acorsica/Kudos`](https://github.com/acorsica/Kudos) — monnaie complémentaire Kudos : don / contre-don public, volontaire, nominatif, traçable et adossé à l’euro.
+- [`acorsica/marianivillage`](https://github.com/acorsica/marianivillage) — habitat minimaliste autonome étudiants / touristes à base de containers maritimes.
+
+## Documents de cadrage
+
+- [`acorsica/gouvernance/etat-du-corpus.md`](https://github.com/acorsica/gouvernance/blob/main/etat-du-corpus.md) — état synthétique des dépôts et documents de liaison.
+- [`acorsica/gouvernance/interet-general-et-separation-politique.md`](https://github.com/acorsica/gouvernance/blob/main/interet-general-et-separation-politique.md) — intérêt général, égalité politique, DHITL, communs démocratiques et séparation politique.
+- [`acorsica/gouvernance/langue-de-reference.md`](https://github.com/acorsica/gouvernance/blob/main/langue-de-reference.md) — langue française comme source normative des documents de gouvernance.
+- [`acorsica/institut-mariani/initiatives.md`](https://github.com/acorsica/institut-mariani/blob/main/initiatives.md) — initiatives liées à l’Institut Mariani.
 
 ## Principe de séparation
 
