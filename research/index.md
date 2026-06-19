@@ -3,6 +3,14 @@ title: "Research Index - acorsica GitHub Profile"
 description: "Navigation index for the acorsica organization profile repository."
 last_modified_at: 2026-06-19
 corpus_role: index
+document_role: "index"
+document_kind: "research-index"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-index"
+classification_confidence: "strong"
 ---
 # Research Index - acorsica GitHub Profile
 
