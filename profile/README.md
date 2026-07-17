@@ -1,3 +1,23 @@
+---
+title: C.O.R.S.I.C.A.
+author: unknown
+date: '2026-06-03'
+document_role: source
+document_kind: documentation
+visibility: public
+lifecycle_state: working
+update_policy: UP-DEFAULT-REVIEWED
+provenance:
+  origin_type: repository
+  origin_repository: acorsica/.github
+  origin_ref: aecbfbc
+  origin_date: '2026-06-03'
+  derived_from: []
+review:
+  status: unreviewed
+  reviewed_by: []
+---
+
 # C.O.R.S.I.C.A.
 
 **C.O.R.S.I.C.A.** signifie **Corse Organisant la Réunion Sur Internet de Compétences Autonomes**.
